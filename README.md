@@ -2,6 +2,7 @@
 ## Latex this year
 * [HW1](https://www.overleaf.com/5599699918wvxkfpccnkqd)
 * [HW2](https://www.overleaf.com/8818474354szwhyxjpmtwq)
+* [HW3](https://www.overleaf.com/2151576166bjtbrpmbmvnc)
 
 
 
@@ -16,4 +17,4 @@
 
   * Hubar julien - [julien1941](https://github.com/julien1941)
   * Guilian Deflandre - [Guilian-Deflandre](https://github.com/Guilian-Deflandre)
-  * Vanputte Correntin - [correntin6941](https://github.com/corentin6941)
+  * Van Putte Correntin - [correntin6941](https://github.com/corentin6941)

@@ -15,6 +15,6 @@
 
 ## Author 
 
-  * Hubar julien - [julien1941](https://github.com/julien1941)
+  * Hubar julien - [jhubar](https://github.com/jhubar)
   * Guilian Deflandre - [Guilian-Deflandre](https://github.com/Guilian-Deflandre)
   * Van Putte Correntin - [correntin6941](https://github.com/corentin6941)
